@@ -40,7 +40,7 @@ body {
 .profile-info {
     display: flex;
     flex-direction: column;
-    gap: 2px;
+    gap: 4px;
 }
 .greeting {
     font-size: 14px;
