@@ -58,3 +58,62 @@ body {
     justify-content: center;
     align-items: center;
 }
+.balance-card {
+    background-color: #BEF264;
+    color: #172500;
+
+    margin: 20px;
+    padding: 24px;
+
+    border-radius: 25px;
+}
+.balance-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.balance-header h2 {
+    font-size: 20px;
+    font-weight: 600;
+    opacity: 0.8;
+}
+
+.balance-toggle {
+    background: none;
+    border: none;
+    color: #172500;
+    cursor: pointer;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.balance-amount {
+    font-size: 34px;
+    font-weight: 700;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    letter-spacing: 2px;
+}
+.balance-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+}
+
+.balance-status {
+    font-size: 16px;
+}
+
+.balance-growth {
+    background-color: #172500;
+    color: #BEF264;
+
+    font-size: 12px;
+    font-weight: 700;
+
+    padding: 9px 12px;
+    border-radius: 12px;
+}
