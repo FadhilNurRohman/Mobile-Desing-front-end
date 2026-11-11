@@ -61,7 +61,7 @@ body {
     align-items: center;
 }
 .balance-card {
-    background-color: #BEF264;
+    background-color: #85fe5c;
     color: #172500;
     margin: 20px;
     padding: 20px;
@@ -108,7 +108,7 @@ body {
     font-size: 12px;
     font-weight: 600;
     padding: 4px 10px;
-    border-radius: 8px;
+    border-radius: 6px;
     letter-spacing: 0.5px;
 }
 .quick-actions {
@@ -152,7 +152,7 @@ body {
     opacity: 0.8;
 }
 .transactions {
-    margin: 30px 20px ;
+    margin: 25px 20px ;
     color: #F1F5F9;
 }
 .transactions-header {
@@ -177,7 +177,7 @@ body {
     color: #94A3B8;
     font-size: 12px;
     font-weight: 600;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 .transaction-item {
     display: grid;
